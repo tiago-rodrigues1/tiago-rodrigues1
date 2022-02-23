@@ -27,6 +27,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=tiago-rodrigues1&show_icons=true&theme=dracula" alt="tiago's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-rodrigues1&layout=compact&theme=dracula" alt="tiago's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=tiago-rodrigues1&count_private=true&include_all_commits=false&show_icons=true&theme=dracula" alt="tiago's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-rodrigues1&langs_count=10&layout=compact&theme=dracula" alt="tiago's most languages"/>
 </p>
