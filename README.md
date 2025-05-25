@@ -4,8 +4,3 @@
 - Cursando Bacharelado em Tecnologia da Informação na UFRN;
 
 - Formado em Técnico em Informática pelo IFRN;
-
-- Tenho muito interesse em desenvolvimento frontend;
-
-<br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-rodrigues1&langs_count=10&layout=compact&theme=dracula" alt="tiago's most languages"/>
